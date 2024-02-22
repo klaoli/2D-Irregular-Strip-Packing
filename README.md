@@ -4,3 +4,8 @@
 
 参考文献：
 An iterated local search algorithm based on nonlinear programming for the irregular strip packing problem.
+
+依赖：
+Boost
+Clipper
+Eigen
